@@ -31,6 +31,7 @@
             echo "Diketahui;<br />";
             echo "Jari-jari lingkaran = $jari<br />";
             echo "Phie = $phie<br />";
+	   //tampilkan hasil keluaranya.
             echo "Maka luas lingkaran sama dengan [ $phie x $jari x $jari ] = $luas_lingkaran";
         }
     ?>
