@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Tutorial Membuat Script PHP Menghitung Luas Lingkaran</title>
+    <title>Tutorial Membuat Script PHP Menghitung Luas Lingkaran by poh</title>
 </head>
 <body>
     <h1>Form Hitung Luas Lingkaran Dengan PHP</h1>
@@ -31,7 +31,6 @@
             echo "Diketahui;<br />";
             echo "Jari-jari lingkaran = $jari<br />";
             echo "Phie = $phie<br />";
-	   //tampilkan hasil keluaranya.
             echo "Maka luas lingkaran sama dengan [ $phie x $jari x $jari ] = $luas_lingkaran";
         }
     ?>
